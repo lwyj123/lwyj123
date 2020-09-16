@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![lwio's github stats](https://github-readme-stats.vercel.app/api?username=lwyj123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **lwyj123/lwyj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

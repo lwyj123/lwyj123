@@ -1,6 +1,45 @@
-### Hi there 👋
 
-[![lwio's github stats](https://github-readme-stats.vercel.app/api?username=lwyj123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> lwyj123 梁王 <img alt="GitHub followers" src="https://img.shields.io/github/followers/lwyj123?style=social" />
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+
+```C#
+public class lwyj123 梁王 (){
+    var e = "Software Engineer and Game Developer";
+ 
+    var langs = "English, Chinese";
+    string[] l = new string[5] {"C#", "JavaScript", "Python", "Rust", "C++"};
+}
+```
+
+## **Language and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+
+## **GitHub Statistics**
+
+[![lwio's github stats](https://github-readme-stats.vercel.app/api?username=lwyj123&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwyj123&theme=monokai)
+
+## **☕ Donates:**
+No need, thanks
+<!-- **Paypal: OkamiMks@protonmail.com** <br> <br>
+<a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="33" width="130" /></a>
+<a href="https://www.patreon.com/OkamiMks">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="33" width="130" /></a>
+<a href="https://ko-fi.com/okamimks"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="33" width="130"/></a>
+<a href="https://liberapay.com/Okami/">
+    <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" height="33" width="130" /></a> <br>
+**Bitcoin <br>
+  └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD <br><br>** -->
 
 <!--
 **lwyj123/lwyj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -25,9 +25,16 @@ public class lwyj123 梁王 (){
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 ## **GitHub Statistics**
-
-[![lwio's github stats](https://github-readme-stats.vercel.app/api?username=lwyj123&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwyj123&theme=monokai)
+
+<a href="https://github.com/lwyj123">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=lwyj123&show_icons=true&count_private=true&theme=onedark" alt="My GitHub stats" width="465"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwyj123&layout=compact&langs_count=10&theme=onedark" alt="Languages" height="183">
+  </p>
+</a>
+
+![](https://github-profile-trophy.vercel.app/?username=lwyj123&column=7&theme=onedark)
 
 ## **☕ Donates:**
 No need, thanks

@@ -7,7 +7,7 @@ public class lwyj123 梁王 (){
     var e = "Software Engineer and Game Developer";
  
     var langs = "English, Chinese";
-    string[] l = new string[5] {"C#", "JavaScript", "Python", "Rust", "C++"};
+    string[] l = new string[5] { "JavaScript", "C#", "Python", "Rust", "C++" };
 }
 ```
 

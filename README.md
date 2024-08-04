@@ -33,30 +33,3 @@ public class lwyj123 梁王 (){
 </a>
 
 ![](https://github-profile-trophy.vercel.app/?username=lwyj123&column=7&theme=onedark)
-
-## **☕ Donates:**
-No need, thanks
-<!-- **Paypal: OkamiMks@protonmail.com** <br> <br>
-<a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="33" width="130" /></a>
-<a href="https://www.patreon.com/OkamiMks">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="33" width="130" /></a>
-<a href="https://ko-fi.com/okamimks"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="33" width="130"/></a>
-<a href="https://liberapay.com/Okami/">
-    <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" height="33" width="130" /></a> <br>
-**Bitcoin <br>
-  └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD <br><br>** -->
-
-<!--
-**lwyj123/lwyj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
